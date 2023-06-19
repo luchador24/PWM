@@ -1,0 +1,7 @@
+main
+	PWM1_Init
+	PWM1_Start
+	Button
+		Delay_500us
+	PWM1_Set_Duty
+		Mul_16X16_U
